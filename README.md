@@ -1,4 +1,4 @@
-### Hi there 👋
+> I can think, I can wait, I can fast, I can ~~create~~ transform
 
 <!--
 **cristianocd/cristianocd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
